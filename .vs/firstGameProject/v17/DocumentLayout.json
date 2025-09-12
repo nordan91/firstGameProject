@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{48CEC614-C59D-B483-5896-4F11912572F1}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player\\playerstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48CEC614-C59D-B483-5896-4F11912572F1}|Assembly-CSharp.csproj|C:\\Users\\adit2\\Documents\\GitHub\\firstGameProject\\assets\\game\\scripts\\cameraorbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48CEC614-C59D-B483-5896-4F11912572F1}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\cameraorbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48CEC614-C59D-B483-5896-4F11912572F1}|Assembly-CSharp.csproj|C:\\Users\\adit2\\Documents\\GitHub\\firstGameProject\\assets\\game\\scripts\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48CEC614-C59D-B483-5896-4F11912572F1}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adit2\\Documents\\GitHub\\firstGameProject\\Assets\\Game\\Scripts\\CameraOrbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Game\\Scripts\\CameraOrbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CameraOrbit.cs",
               "DocumentMoniker": "C:\\Users\\adit2\\Documents\\GitHub\\firstGameProject\\Assets\\Game\\Scripts\\CameraOrbit.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\CameraOrbit.cs",
@@ -60,14 +60,14 @@
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Player\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\adit2\\Documents\\GitHub\\firstGameProject\\Assets\\Game\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Game\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T12:17:15.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "InputManager.cs",
               "DocumentMoniker": "C:\\Users\\adit2\\Documents\\GitHub\\firstGameProject\\Assets\\Game\\Scripts\\Input\\InputManager.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Input\\InputManager.cs",

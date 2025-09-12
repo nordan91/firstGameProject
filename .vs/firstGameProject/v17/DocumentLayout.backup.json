@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{48CEC614-C59D-B483-5896-4F11912572F1}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48CEC614-C59D-B483-5896-4F11912572F1}|Assembly-CSharp.csproj|c:\\users\\adit2\\documents\\github\\firstgameproject\\assets\\game\\scripts\\player\\playerstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48CEC614-C59D-B483-5896-4F11912572F1}|Assembly-CSharp.csproj|C:\\Users\\adit2\\Documents\\GitHub\\firstGameProject\\assets\\game\\scripts\\player\\playerstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48CEC614-C59D-B483-5896-4F11912572F1}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player\\playerstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Assets\\Game\\Scripts\\Player\\PlayerStance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T09:58:58.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T09:58:58.336Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Player\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\adit2\\Documents\\GitHub\\firstGameProject\\Assets\\Game\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Game\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T12:17:15.557Z",
               "EditorCaption": ""

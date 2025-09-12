@@ -65,10 +65,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Game\Scripts\Player\PlayerStance.cs" />
-    <Compile Include="Assets\Move.cs" />
-    <Compile Include="Assets\Game\Scripts\CameraOrbit.cs" />
+    <Compile Include="Assets\Game\Scripts\Camera\CameraState.cs" />
     <Compile Include="Assets\Game\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\Game\Scripts\Input\InputManager.cs" />
+    <Compile Include="Assets\Game\Scripts\Camera\CameraManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -919,6 +919,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
       <Private>False</Private>
@@ -981,6 +985,10 @@
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
