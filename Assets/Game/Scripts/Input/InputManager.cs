@@ -10,6 +10,15 @@ public class InputManager : MonoBehaviour
     public Action OnJumpInput;
     public Action OnClimbInput;
     public Action OnCancelInput;
+<<<<<<< Updated upstream
+=======
+    public Action OnChangePOVInput;
+    public Action OnCrouchInput;
+    public Action OnGlideInput;
+    public Action OnCancelGlideInput;
+    public Action OnPunchInput;
+    public Action OnMainMenuInput;
+>>>>>>> Stashed changes
     private void Update()
     {
         CheckMovementInput();
@@ -129,11 +138,14 @@ public class InputManager : MonoBehaviour
 
     private void CheckMainMenuInput()
     {
-        bool isPressMainMenuInput = Input.GetKeyDown(KeyCode.Escape);
+        bool isPressMainMenuInput = Input.GetKeyDown(KeyCode.Backspace) || Input.GetKeyDown(KeyCode.Escape);
 
         if (isPressMainMenuInput)
         {
-            Debug.Log("Back To Main Menu");
+            if (OnMainMenuInput != null)
+            {
+                OnMainMenuInput();
+            }
         }
     }
 }
